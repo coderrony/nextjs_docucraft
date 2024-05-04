@@ -1,0 +1,42 @@
+[
+  {
+    id: 'introduction',
+    title: 'Introduction',
+    date: '2024-02-12',
+    parent: null,
+    order: 1,
+    author: 'Alex B',
+    category: 'General',
+    tags: [ 'intro', 'getting-started' ]
+  },
+  {
+    id: 'quick-start',
+    title: 'Quick Start',
+    date: '2024-03-13',
+    parent: null,
+    order: 2,
+    author: 'Brian C',
+    category: 'quick-start',
+    tags: [ 'intro', 'getting-started' ]
+  },
+  {
+    id: 'sdks',
+    title: 'SDKs',
+    date: '2024-03-12',
+    parent: null,
+    order: 3,
+    author: 'Brian C',
+    category: 'sdk',
+    tags: [ 'technology' ]
+  },
+  {
+    id: 'analysis',
+    title: 'Analysis',
+    date: '2024-03-12',
+    parent: null,
+    order: 4,
+    author: 'Brian C',
+    category: 'analytics',
+    tags: [ 'technology', 'analytics' ]
+  }
+]
