@@ -8,5 +8,5 @@ npm i
 # then
 npm run dev
 ```
-## Deploy on Vercel
 
+### Live Link : https://nextjs-docucraft-oc63.vercel.app/
