@@ -55,7 +55,7 @@ function Sidebar({ docs }) {
     });
     setRootNodes([...roots]);
     setNonRootNodesGrouped({ ...nonRoots });
-  }, [pathName]);
+  }, [pathName, docs]);
 
   // console.log(rootNodes);
   // console.log(nonRootNodesGrouped);
